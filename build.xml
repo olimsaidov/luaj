@@ -207,6 +207,6 @@
 		</exec>
 	</target>
 
-	<target name="all" depends="clean,jar-jme,jar-jse,jar-jse-sources"/>
+	<target name="all" depends="clean,jar-jse,jar-jse-sources"/>
 		
 </project>
